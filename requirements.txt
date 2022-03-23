@@ -1,0 +1,10 @@
+# required for project
+ray[rllib]
+pandas
+seaborn
+matplotlib
+pytest
+pytest-cov
+numpy >= 1.16.5
+tensorflow
+black
