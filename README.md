@@ -1,5 +1,3 @@
-# stationary-battery
-
 
 stationary-battery
 ==============================
